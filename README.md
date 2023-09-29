@@ -2,7 +2,7 @@
 <html>
 
 <head>
-  <title>People Counter Mobile App in Kotlin</title>
+
 </head>
 
 <body>
